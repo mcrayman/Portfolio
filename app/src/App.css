@@ -55,6 +55,10 @@
   color: #7127BA;
 }
 
+.me {
+  filter: drop-shadow(0 0 40px #7127BA);
+}
+
 .currently {
   font-size: 21px;
 }
