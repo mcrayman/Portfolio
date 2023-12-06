@@ -6,7 +6,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa';
 function Navigation() {
     return (
         <>
-        <Navbar className='navbar' expand="lg" fixed="top">
+        <Navbar className='navbar' fixed="top">
             <Container>
                 <Nav className="ml-auto">
                     <Nav.Item>

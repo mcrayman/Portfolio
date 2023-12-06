@@ -9,7 +9,7 @@ function Experience() {
       <div className='relative'>Relative Work Experience</div>
       <Row className='justify-content-between'>
         <Col>
-          <Card className='cardbox'>
+          <Card className='cardbox' style={{ boxShadow: '0 4px 80px 0 #7127BA'}}>
             <Card.Body className="card-body-experience">
             <Row>
               <Col>
@@ -27,7 +27,7 @@ function Experience() {
           </Card>
         </Col>
         <Col>
-          <Card className='cardbox'>
+          <Card className='cardbox' style={{ boxShadow: '0 4px 80px 0 #7127BA'}}>
             <Card.Body className="card-body-experience">
             <Row>
               <Col>

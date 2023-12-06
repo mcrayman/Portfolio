@@ -14,7 +14,7 @@ function Technologies() {
             <img src={technologies} alt="technologies" style={{ width: '550px', justifyContent: 'center', marginTop: '50px' }}/>
         </Row>
         <Row className='justify-content-center'>
-            <img src={Group1942} alt="orb" style={{ width: '70%'}}/>
+            <img src={Group1942} alt="orb" style={{ width: '60%', marginTop: '30px'}}/>
         </Row>
     </Row>
   )
