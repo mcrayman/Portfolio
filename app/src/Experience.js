@@ -10,13 +10,13 @@ function Experience() {
       <Row className='justify-content-between'>
         <Col>
           <Card className='cardbox'>
-            <Card.Body>
+            <Card.Body className="card-body-experience">
             <Row>
               <Col>
-              <img className="card-image" src={DPlogo2}/>
+              <img className="card-image" src={DPlogo2} alt='data profits logo'/>
               </Col>
               <Col xs={8} className='cardtextabout'>
-                <Card.Title className='card-title text-white'>Data Profits</Card.Title>
+                <Card.Title className='text-white'>Data Profits</Card.Title>
                 <Card.Text className='text-white card-text'>
                   SaaS demand forecasting, inventory replenishment, and supply chain solution provide enterprise-level performance without the enterprise price.
                 </Card.Text>
@@ -28,13 +28,13 @@ function Experience() {
         </Col>
         <Col>
           <Card className='cardbox'>
-            <Card.Body>
+            <Card.Body className="card-body-experience">
             <Row>
               <Col>
-                <img className="card-image" src={RJlogo} />
+                <img className="card-image" src={RJlogo} alt='raymond james logo'/>
               </Col>
               <Col xs={8} className='cardtextabout'>
-                <Card.Title className='card-title text-white'>Raymond James</Card.Title>
+                <Card.Title className='text-white'>Raymond James</Card.Title>
                 <Card.Text className='text-white card-text'>
                   As a global financial services firm, our focus is on providing trusted advice and tailored, sophisticated strategies for individuals and institutions.
                 </Card.Text>
