@@ -1,8 +1,6 @@
 .App {
   width: 100vw;
-  height: 200vh;
-  height: 110%;
-  min-height: 100vh;
+  height: 100%;
   background-color: #11071F;
   display: flex;
   flex-direction: column;
@@ -15,22 +13,32 @@
 }
 
 /* Style the links and visited links */
-.link:link {
+.navbar .link:link {
   color: white;
   text-decoration: none;
 }
 
-.link:visited {
+.navbar .link:visited {
   color: white;
   text-decoration: none;
 }
+
+.navbar .link:hover {
+  color: #7127BA;
+}
 /* Styles for the social icons */
 .navbar .github,
-.navbar .linkedin {
+.navbar .linkedin,
+.github {
   font-size: 30px;
   color: white;
 }
 
+.navbar .github:hover,
+.navbar .linkedin:hover,
+.github:hover {
+  color: #7127BA;
+}
 .intro > * {
   color: white;
 }
@@ -52,7 +60,7 @@
 }
 
 .about {
-  width: 70vw;
+  width: 1050px;
 }
 
 .about-text {
@@ -65,7 +73,7 @@
 }
 
 .experience {
-  margin-top: 200px;
+  margin-top: 300px;
   color: white;
 }
 
@@ -88,15 +96,19 @@
   margin: 60px 0 100px 0;
 }
 
-.card-body {
-  border-top: 2px solid #693B93;
+.card-body-experience {
+  border-top: 2px solid #7127BA;
   border-radius: 15px;
+}
+
+.card-title {
+  color: white;
 }
 
 .learn-more {
   color: white;
   text-align: center;
-  border: 1px solid #693B93;
+  border: 1px solid #7127BA;
   border-radius: 10px;
   height: 30px;
   width: 130px;
@@ -107,5 +119,23 @@
 }
 
 .learn-more:hover {
-  background-color: #693B93;
+  background-color: #7127BA;
 }
+
+.card-link-github {
+  color: white;
+  font-size: 45px;
+}
+
+.card-link-github:hover {
+  color: #7127BA;
+}
+
+.icon-connect {
+  font-size: 60px;
+  color: white;
+}
+
+.icon-connect:hover {
+  color: #7127BA;
+} 
