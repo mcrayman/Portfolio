@@ -69,7 +69,7 @@ function Projects() {
         },
     ]
   return (
-<Row xs={1} style={{ margin: '75px 150px 0 150px', maxWidth: '1300px', alignSelf: 'center' }} className="row-cols-1 row-cols-md-3 g-2">
+<Row id='projects' xs={1} style={{ margin: '75px 150px 0 150px', maxWidth: '1300px', alignSelf: 'center' }} className="row-cols-1 row-cols-md-3 g-2">
   {projects.map((project) => (
     <Col key={project.key} style={{ maxWidth: '600px' }} className="d-flex justify-content-center">
       <Card className="card-projects" style={{ width: '350px', minWidth: '320px', height: '470px', minHeight: '470px', padding: 0, margin: '20px', backgroundColor: '#1C1633', boxShadow: '0 4px 30px 0 #7127BA' }}>
