@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.aa22393a.css",
+    "main.js": "/Portfolio/static/js/main.a1516f85.js",
+    "static/js/787.0f8d78ff.chunk.js": "/Portfolio/static/js/787.0f8d78ff.chunk.js",
+    "static/media/pomofocus.png": "/Portfolio/static/media/pomofocus.b6d3542b6f4d46d292bf.png",
+    "static/media/markdownpreviewer.png": "/Portfolio/static/media/markdownpreviewer.21b9100fb33daac995b1.png",
+    "static/media/drummachine.png": "/Portfolio/static/media/drummachine.11fbd090f821a5dcd169.png",
+    "static/media/rubytodo.png": "/Portfolio/static/media/rubytodo.a2bf5c5cdb85bfda71a1.png",
+    "static/media/Group1942.png": "/Portfolio/static/media/Group1942.d67ffe4f64f92577bd3f.png",
+    "static/media/rubyquiz.png": "/Portfolio/static/media/rubyquiz.2e234a51e896cf2e0c4b.png",
+    "static/media/quotegenerator.png": "/Portfolio/static/media/quotegenerator.b6d842440244fc49dc4f.png",
+    "static/media/calculator.png": "/Portfolio/static/media/calculator.4e5539b42687503ec638.png",
+    "static/media/memoji.png": "/Portfolio/static/media/memoji.15a21b86172137a5b75b.png",
+    "static/media/stockstatuswidget.png": "/Portfolio/static/media/stockstatuswidget.016cb0179ea11c3f7450.png",
+    "static/media/RJlogo.png": "/Portfolio/static/media/RJlogo.604338cf78f286f8c088.png",
+    "static/media/DPlogo2.png": "/Portfolio/static/media/DPlogo2.abd027fdd248b656dc21.png",
+    "static/media/technologies.png": "/Portfolio/static/media/technologies.2248793717ed61e205b7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.aa22393a.css.map": "/Portfolio/static/css/main.aa22393a.css.map",
+    "main.a1516f85.js.map": "/Portfolio/static/js/main.a1516f85.js.map",
+    "787.0f8d78ff.chunk.js.map": "/Portfolio/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa22393a.css",
+    "static/js/main.a1516f85.js"
+  ]
+}
