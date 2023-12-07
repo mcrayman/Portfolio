@@ -5,7 +5,7 @@ import stockstatuswidget from './stockstatuswidget.png'
 function FeaturedProject() {
   return (
 <div className='d-flex justify-content-center' style={{ width: '100%', marginTop: '100px' }}>
-    <Row id='featured-project' style={{ margin: '200px 0', maxWidth: '1200px' }}>
+    <Row id='projects' style={{ margin: '200px 0', maxWidth: '1200px' }}>
         <Col style={{ color: 'white', textAlign: 'left', alignSelf: 'center', marginRight: '40px' }} >
             <Row style={{ width: '300px', fontSize: '24px', color: '#7127BA' }}>Featured Project</Row>
             <Row style={{ fontSize: '50px', color: 'white', maxWidth: '600px' }}>Stock Status Widget</Row>
